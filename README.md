@@ -1,1 +1,1 @@
-# AnamolyDetectionMain
+# AnomalyDetectionMain
