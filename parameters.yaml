@@ -1,0 +1,12 @@
+# parameters.yaml file
+
+# order to pass in the ARIMA model
+order:
+  - 20
+  - 2
+  - 1
+
+# threshold to pass in the ARIMA model
+threshold:
+  - 2
+  - 5
